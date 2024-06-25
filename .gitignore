@@ -1,0 +1,11 @@
+.env
+cyberguard_venv/
+__pycache__
+cicids2017_eval.jsonl
+cicids2017_train.jsonl
+cicids2017_train_1.jsonl
+cicids2017_train_2.jsonl
+cicids2017_train_3.jsonl
+old
+data
+pre_processed_data
